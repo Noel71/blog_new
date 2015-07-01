@@ -1,4 +1,4 @@
-cdTest Rails Blog- Noel Selva
+Rails Blog- Noel Selva
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
